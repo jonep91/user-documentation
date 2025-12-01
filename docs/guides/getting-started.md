@@ -20,7 +20,7 @@ Users of participating institutions can log in using the institutional account t
 
 2. Choose **“Log in via your institution”**.
 
-3. Select your university (UGent, VUB, UHasselt, or UAntwerpen).  
+3. Select your university (Ghent University, Vrije Universiteit Brussel, Hasselt University or Universiteit Antwerpen).  
 
    Using the correct institutional account ensures that you receive the proper permissions automatically.
 
